@@ -6,6 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3a8a265a2d2666741a9c8a1a5c655b69
+  - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Bar.unity
+    guid: 70778a8bc11300745b4245b83e3dbf15
+  - enabled: 1
+    path: Assets/Scenes/Barber.unity
+    guid: 3a983bfde9b4adf409013489f3b78873
+  - enabled: 1
+    path: Assets/Scenes/DeadwoodInn.unity
+    guid: 9f233975660db3d41b83578829ed8ca3
+  - enabled: 1
+    path: Assets/Scenes/Jail.unity
+    guid: 5f02ae0643a961f4aa7c8b4424b4c57a
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 5a155ee231a0f4444a88a06da04ccaf5
+  - enabled: 1
+    path: Assets/Scenes/MansionRoom.unity
+    guid: e545813d803b57b40a5bfe1c7b378995
+  - enabled: 1
+    path: Assets/Scenes/WitchHut_INSIDE.unity
+    guid: fe19af63e1f39b24fbb2175697d32cbd
+  - enabled: 1
+    path: Assets/Scenes/WitchHut_OUTSIDE.unity
+    guid: 6dd0bcb3a182f7f43bdb73731daea482
   m_configObjects: {}

@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - NPC
+  - Teleporter
   layers:
   - Default
   - TransparentFX
@@ -13,10 +15,10 @@ TagManager:
   - UI
   - Player
   - Background
+  - Ground
   - Foreground
-  - 
-  - 
-  - 
+  - Wall Boundaries
+  - Interactable
   - 
   - 
   - 
@@ -38,6 +40,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Skybox
+    uniqueID: 3666276677
+    locked: 0
   - name: Background
     uniqueID: 4255335847
     locked: 0
